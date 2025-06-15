@@ -29,13 +29,20 @@ pip install -r requirements.txt
 
 ------------
 
+Takım Adı: FDeep.AI
+Teknofest 2025 Türkçe Doğal Dil İşleme Yarışması Serbest Kategori için oluşturulmuştur.
+
+------------
+
+Takım Üyeleri
+Feyza Kıranlıoğlu GitHub: https://github.com/feyzakir
+Derin Çıvgın GitHub: https://github.com/Derincvgn
+
+------------
+
 2. PDF Veri Setini Ekleme
-
-Proje, `dijitalpazarlama_reklamkaynakları` adlı klasör altında toplanmış PDF belgeleriyle birlikte gelir. Bu belgeler, dijital reklamcılık ve pazarlama üzerine 50'den fazla kaynak içermektedir.
-
+Proje, `dijitalpazarlama_reklamkaynakları` adlı klasör altında PDF belgesiyle birlikte gelir.
 Bu klasör, `main.py` çalıştırıldığında otomatik olarak yüklenir. Ekstra bir bağlantıya ihtiyaç yoktur.
-
-> Not: Veri seti telif hakkı içermediği için doğrudan proje klasörüne dahil edilmiştir.
 
  ------------
 

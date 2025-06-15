@@ -1,4 +1,4 @@
-# FDeepAI: Dijital Pazarlama ve Reklam Asistanı (Teknofest 2025)
+# FDeep.AI: Dijital Pazarlama ve Reklam Asistanı (Teknofest 2025)
 
 ## Proje Tanımı
 FDeepAI, KOBİ'ler ve bireysel girişimciler için ajanslara olan bağımlılığı azaltmayı hedefleyen, **doğal dil işleme tabanlı, çok modelli bir yapay zeka asistanıdır**. Sistem, dijital pazarlama ve reklamcılık konularında bilgi sunar, kullanıcıdan gelen soruları daha önceden yüklenmiş PDF belgelerine dayalı olarak analiz ederek Türkçe yanıtlar üretir. Özellikle teknik bilgisi sınırlı kullanıcıların bile profesyonel kampanya stratejileri oluşturmasına olanak sağlar. Ayrıca tamamen yerel ortamda çalışan bir yapıya sahip olması sayesinde veri gizliliği %100 güvence altına alınmaktadır. Bu özellik, veri güvenliğine öncelik veren büyük ölçekli şirketler için de önemli bir tercih sebebi oluşturmaktadır.
